@@ -2,3 +2,4 @@ data/
 pc_diffusion_ckpt/
 *.pth
 samplese/
+generated_images_scratch/
