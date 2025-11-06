@@ -1,8 +1,1 @@
 data/
-pc_diffusion_ckpt/
-*.pth
-samplese/
-generated_images_scratch/
-generated_image_v2/
-*.png
-*.md
