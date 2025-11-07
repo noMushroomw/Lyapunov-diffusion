@@ -2,5 +2,6 @@ data/
 generated_images_fixed/
 generated_fixed_claude/
 pc_edm_ckpts/
+samples/
 *.pth
 *.png
