@@ -1,4 +1,5 @@
 data/
+runs/
 generated_images_fixed/
 generated_fixed_claude/
 pc_edm_ckpts/
@@ -6,3 +7,4 @@ samples/
 checkpoints/
 *.pth
 *.png
+*.md
